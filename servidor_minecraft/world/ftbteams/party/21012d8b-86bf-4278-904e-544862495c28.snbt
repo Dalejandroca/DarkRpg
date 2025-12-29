@@ -1,0 +1,25 @@
+{
+	id: "21012d8b-86bf-4278-904e-544862495c28"
+	type: "party"
+	owner: "fcb33033-a2d1-3bae-abae-bbc169e822af"
+	ranks: {
+		dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06: "member"
+		fcb33033-a2d1-3bae-abae-bbc169e822af: "owner"
+		97923b0a-25f4-3d49-b72c-ab5e412188be: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "tu puta madre"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5961"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1766469734533L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Dalej\"}]}" }
+		{ from: "fcb33033-a2d1-3bae-abae-bbc169e822af", date: 1766469734536L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"MandyXMaster687\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1766469739333L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"MandyXMaster687\"}]}" }
+		{ from: "fcb33033-a2d1-3bae-abae-bbc169e822af", date: 1766557427093L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Denji\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1766557438012L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Denji\"}]}" }
+	]
+	extra: { }
+}

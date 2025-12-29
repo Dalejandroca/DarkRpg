@@ -1,0 +1,97 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "backport"
+	group: "50B8F4219D9C0508"
+	icon: "minecraft:music_disc_lava_chicken"
+	id: "14418F5F37344A2C"
+	images: [{
+		height: 1.0d
+		image: "minecraft:item/backport"
+		rotation: 0.0d
+		width: 6.1125d
+		x: -1.0d
+		y: -2.5d
+	}]
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Backports modern minecraft features to previous versions (1.20.1), trying to keep it as accurate as vanilla Minecraft. "
+				""
+				"Currently includes:-"
+				"&aThe Garden Awakens&r: Pale Garden, Creaking"
+				"&bChase the Skies&r: Happy Ghast"
+				""
+				"(Check out the stables chapter for Happy Ghast items)"
+			]
+			icon: "plushies:ghast_plushie"
+			id: "72FED511FFF81E63"
+			rewards: [{
+				id: "0C85BCA9D9984C49"
+				item: "minecraft:brown_mushroom"
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "2630F78ADFF23E2C"
+				type: "checkmark"
+			}]
+			title: "Backport Information"
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			description: ["A dried ghast is an immobile, shriveled, harmless ghast in the form of a block. It can be found near Nether fossils or obtained through bartering or crafting. Placing it in water will cause it to hydrate over time until it becomes a friendly ghastling."]
+			id: "401E4988850599CB"
+			rewards: [{
+				id: "2089686C63E02A3D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "377CF6CDDAAC0197"
+				item: "minecraft:dried_ghast"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			id: "6A803B232ADE0384"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "45AEA931F1BCEE69"
+				table_id: 7526189038470350146L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0F3CAE11A9417124"
+				item: "minecraft:music_disc_tears"
+				type: "item"
+			}]
+			title: "Tears"
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			id: "22D6221ADCC3B789"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "07FD0488FA626985"
+				table_id: 7526189038470350146L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5D75CC7927DD5CB4"
+				item: "minecraft:music_disc_lava_chicken"
+				type: "item"
+			}]
+			title: "Lava Chicken"
+			x: 0.0d
+			y: 0.5d
+		}
+	]
+	title: "Backport"
+}

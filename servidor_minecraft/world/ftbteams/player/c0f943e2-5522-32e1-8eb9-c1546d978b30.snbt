@@ -1,0 +1,15 @@
+{
+	id: "c0f943e2-5522-32e1-8eb9-c1546d978b30"
+	type: "player"
+	player_name: "Gwynvleidd"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Gwynvleidd"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8A59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

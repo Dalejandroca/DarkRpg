@@ -1,0 +1,15 @@
+{
+	id: "fcb33033-a2d1-3bae-abae-bbc169e822af"
+	type: "player"
+	player_name: "Dalej"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Dalej"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5961"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

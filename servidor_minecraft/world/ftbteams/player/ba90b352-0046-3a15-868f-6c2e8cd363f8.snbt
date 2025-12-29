@@ -1,0 +1,15 @@
+{
+	id: "ba90b352-0046-3a15-868f-6c2e8cd363f8"
+	type: "player"
+	player_name: "morax"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "morax"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59EDFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

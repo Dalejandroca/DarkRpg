@@ -1,0 +1,15 @@
+{
+	id: "97923b0a-25f4-3d49-b72c-ab5e412188be"
+	type: "player"
+	player_name: "MandyXMaster687"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "MandyXMaster687"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8EFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

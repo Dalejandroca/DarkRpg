@@ -1,0 +1,28 @@
+{
+	id: "6f423173-db2f-4f1f-82c6-77c1ccb889a4"
+	type: "party"
+	owner: "ba90b352-0046-3a15-868f-6c2e8cd363f8"
+	ranks: {
+		c0f943e2-5522-32e1-8eb9-c1546d978b30: "member"
+		ba90b352-0046-3a15-868f-6c2e8cd363f8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "morax's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59EDFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1766301346856L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"morax\"}]}" }
+		{ from: "ba90b352-0046-3a15-868f-6c2e8cd363f8", date: 1766301357457L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Dalej\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1766301564690L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Dalej\"}]}" }
+		{ from: "ba90b352-0046-3a15-868f-6c2e8cd363f8", date: 1766304183068L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Gwynvleidd\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1766304187987L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Gwynvleidd\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1766469720046L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"Dalej\"}]}" }
+		{ from: "ba90b352-0046-3a15-868f-6c2e8cd363f8", date: 1766479574409L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Denji\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1766479683597L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Denji\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1766557402322L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"Denji\"}]}" }
+	]
+	extra: { }
+}

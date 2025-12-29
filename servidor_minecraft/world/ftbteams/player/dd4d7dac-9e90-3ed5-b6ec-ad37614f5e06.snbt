@@ -1,0 +1,15 @@
+{
+	id: "dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06"
+	type: "player"
+	player_name: "Denji"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Denji"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5971"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
